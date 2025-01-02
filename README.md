@@ -36,3 +36,5 @@ Italicized text is the <em>cat's meow</em>.
 # Here's a Heading
 
 ![screenshot]{pic.png}
+
+![my screenshot]{![pic](https://github.com/user-attachments/assets/6c1961f9-c033-4dce-bf7c-b8ef9a0278cc)
