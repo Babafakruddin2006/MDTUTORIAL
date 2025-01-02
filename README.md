@@ -14,3 +14,8 @@ Heading level 2
 Heading level 1
 ===============	
 # Here's a Heading
+Try to put a blank line before...
+
+# Heading
+
+...and after a heading.
