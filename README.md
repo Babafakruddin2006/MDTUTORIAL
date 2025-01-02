@@ -34,3 +34,5 @@ Italicized text is the <em>cat's meow</em>.
 # all the best
 # may i come in
 # Here's a Heading
+
+![screenshot]{pic.png}
