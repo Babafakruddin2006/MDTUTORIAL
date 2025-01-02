@@ -24,7 +24,7 @@ Italicized text is the <em>cat's meow</em>.
 <html>
   <head>
     <title>SRIT</title>
-    <align center>
+    <align >center</em></align>
   </head>
   <body>
     <welcome to srit>
